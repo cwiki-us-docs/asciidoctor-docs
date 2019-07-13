@@ -21,6 +21,6 @@ before_script:
   - git rm --cached --ignore-unmatch index.html
 
 script:
-  - ./gradlew asciidoctor
+
 
 after_script:
