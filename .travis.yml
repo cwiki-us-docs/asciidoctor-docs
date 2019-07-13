@@ -25,11 +25,3 @@ script:
   - ./gradlew -b finalize.gradle finalize -i
 
 after_script:
-  - git add .
-  # something@example.com
-  - git config user.email "${GIT_EMAIL}"
-  # First Last
-  - git config user.name "${GIT_NAME}"
-  - git commit -m "updating outputs"
-  # https://${GH_TOKEN}@github.com/cwiki-us-docs/asciidoctor-gradle-examples.git
-  - git push -f "${GIT_URL}" gh-pages > /dev/null 2>&1
