@@ -1,4 +1,5 @@
 language: java
+install: true
 
 jdk:
   - openjdk8
@@ -25,8 +26,6 @@ before_script:
   - git rm --cached --ignore-unmatch index.html
 
 script:
-  - ./gradlew clean publish -i --continue
-  - ./gradlew -b finalize.gradle finalize -i
-  - ./gradlew asciidoctor
+  - ./gradlew build
 
 after_script:
