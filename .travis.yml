@@ -36,3 +36,4 @@ deploy:
   bucket: "com.ossez.docs"
   skip_cleanup: true
   local_dir: build
+  endpoint: s3.us-east-2.amazonaws.com
