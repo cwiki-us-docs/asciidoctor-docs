@@ -14,12 +14,13 @@ cache:
   directories:
   - $HOME/.gradle
 
+
 before_script:
   - git fetch
   - git checkout -b gh-pages
   - git merge origin/master
   - git rm --cached --ignore-unmatch index.html
-  - git update-index --chmod=+x gradlew
+  - chmod +x gradlew
 
 script:
 
