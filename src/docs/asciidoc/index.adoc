@@ -7,13 +7,13 @@
 :rainbow-themes: pass:quotes[[red]##t##[green]##h##[purple]##e##[fuchsia]##m##[blue]##e##[teal]##s##]
 
 单击页面中的链接来学习有关 AsciiDoc 标记语言，Asciidoctor 工具集和有关 Asciidoctor 的整合集成。
-You'll also find tips on how to be most productive when writing with the AsciiDoc syntax.
+你将同时找到一些能够让 AsciiDoc 句法更有效率的技巧。
 
-TIP: Can't find the information you need? Reach out to project members and users via the http://discuss.asciidoctor.org/[discussion list] or the https://gitter.im/asciidoctor/asciidoctor[asciidoctor/asciidoctor Gitter channel].
+TIP: 不能找到你需要的信息？通过访问 http://discuss.asciidoctor.org/[讨论列表]或者or the https://gitter.im/asciidoctor/asciidoctor[asciidoctor/asciidoctor 提交者频道]来联系项目的成员和用户。
 
-== The Basics
+== 基本介绍
 
-Discover Asciidoctor and how it can help you.
+发现 Asciidoctor 和 Asciidoctor 是如何能够帮助你的。
 
 * link:what-is-asciidoctor/[What is Asciidoctor?]
 
