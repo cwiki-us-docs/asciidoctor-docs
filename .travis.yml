@@ -36,5 +36,5 @@ deploy:
   region: us-east-2
   bucket: "com.ossez.docs"
   skip_cleanup: true
-  local_dir: build
+  local_dir: build/asciidoc/html5
   upload-dir: asciidoc-docs
