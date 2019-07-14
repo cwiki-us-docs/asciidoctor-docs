@@ -15,7 +15,7 @@ TIP: 不能找到你需要的信息？通过访问 http://discuss.asciidoctor.or
 
 发现 Asciidoctor 和 Asciidoctor 是如何能够帮助你的。
 
-* link:what-is-asciidoctor/[What is Asciidoctor?]
+* link:what-is-asciidoctor/[什么是 Asciidoctor]
 
 * link:what-is-asciidoc-why-use-it/[What is AsciiDoc? Why do we need it?]
 
@@ -23,7 +23,7 @@ TIP: 不能找到你需要的信息？通过访问 http://discuss.asciidoctor.or
 
 * link:/#authors[Who created Asciidoctor?]
 
-* https://github.com/asciidoctor/asciidoctor/blob/master/LICENSE[What is the Asciidoctor license?]
+* https://github.com/asciidoctor/asciidoctor/blob/master/LICENSE[Asciidoctor 的许可证是什么]
 
 * link:asciidoc-vs-markdown/[How do AsciiDoc and Markdown differ?]
 
