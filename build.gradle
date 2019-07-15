@@ -1,14 +1,10 @@
 plugins {
-    id 'org.asciidoctor.convert' version '1.5.8.1'
+    id "org.asciidoctor.convert" version "2.3.0"
 }
 
 apply plugin: 'java'
 
-version = '1.0.0-SNAPSHOT'
-
-asciidoctorj {
-    version = '1.5.5'
-}
+version = '1.0.0'
 
 asciidoctor {
     def source = project.sourceSets.main.java.srcDirs[0]
