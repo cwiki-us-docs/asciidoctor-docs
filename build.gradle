@@ -1,5 +1,5 @@
 plugins {
-    id "org.asciidoctor.convert" version "2.2.0"
+    id "org.asciidoctor.convert" version "2.3.0"
     id 'org.kordamp.gradle.livereload' version '0.2.1'
 }
 
