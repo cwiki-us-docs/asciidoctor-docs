@@ -1,5 +1,5 @@
 = 什么是 Asciidoctor？
-Dan Allen, Sarah White
+YuCheng Hu <yhu@ossez.com>
 :page-layout: docs
 ifndef::env-site[]
 :toc: left
