@@ -1,21 +1,19 @@
 plugins {
-    id "org.asciidoctor.convert" version "2.3.0"
-    id 'org.kordamp.gradle.livereload' version '0.2.1'
+    id 'org.asciidoctor.convert' version '1.5.8.1'
 }
 
 apply plugin: 'java'
-apply plugin: 'org.kordamp.gradle.livereload'
 
-version = '1.0.0'
+version = '1.0.0-SNAPSHOT'
 
 asciidoctorj {
-    version = '2.1.0'
+    version = '1.5.5'
 }
 
 asciidoctor {
     def source = project.sourceSets.main.java.srcDirs[0]
     def build = file('build.gradle')
-
+    
     // add extra inputs since these include files that are included
     inputs.dir source
 
@@ -31,8 +29,4 @@ asciidoctor {
         'idprefix': '',
         'idseparator': '-',
         'docinfo1': ''
-}
-
-liveReload {
-    docRoot asciidoctor.outputDir.canonicalPath
 }
