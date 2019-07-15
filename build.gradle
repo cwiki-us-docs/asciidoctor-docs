@@ -13,10 +13,9 @@ asciidoctor {
     // add extra inputs since these include files that are included
     inputs.dir source
 
-    attributes \
-        'build-gradle': file('build.gradle'),
+    attributes 'build-gradle': file('build.gradle'),
         'sourcedir': source,
-        'endpoint-url': 'http://example.org',
+        'endpoint-url': 'https://docs.ossez.com',
         'source-highlighter': 'coderay',
         'imagesdir': 'images',
         'toc': 'left',
