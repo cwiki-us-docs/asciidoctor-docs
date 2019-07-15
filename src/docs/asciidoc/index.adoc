@@ -17,7 +17,7 @@ TIP: 不能找到你需要的信息？通过访问 http://discuss.asciidoctor.or
 
 * xref:what-is-asciidoctor.adoc[什么是 Asciidoctor]
 
-* xref:what-is-asciidoc.adoc[What is AsciiDoc? Why do we need it?]
+* xref:what-is-asciidoc.adoc[什么是 AsciiDoc？为什么我们需要它]
 
 * xref:asciidoc-asciidoctor-diffs.adoc[HAsciidoctor 和 AsciiDoc 有什么不同]
 
@@ -25,18 +25,18 @@ TIP: 不能找到你需要的信息？通过访问 http://discuss.asciidoctor.or
 
 * https://github.com/asciidoctor/asciidoctor/blob/master/LICENSE[Asciidoctor 的许可证是什么]
 
-* link:asciidoc-vs-markdown/[How do AsciiDoc and Markdown differ?]
+* xref:asciidoc-vs-markdown.adoc[AsciiDoc 和 Markdown 有什么不同]
 
 * http://www.vogella.com/tutorials/AsciiDoc/article.html[Using AsciiDoc and Asciidoctor to write documentation] (article by vogella)
 
-== Get Started with Asciidoctor
+== 开始使用 Asciidoctor
 
-Now, let's setup and use the Asciidoctor toolchain!
+现在，让我们安装并使用 Asciidoctor 工具链！
 
-* link:install-toolchain/[How do I install the Asciidoctor toolchain?]
+* xref:install-toolchain.adoc[如何安装 Asciidoctor 工具链？]
 +
 [sidebar]
-.Using macOS?
+.使用 macOS?
 Follow the guide link:install-asciidoctor-macos/[Installing Asciidoctor on macOS] for an in-depth tutorial.
 
 * link:convert-documents[How do I convert a document?]
