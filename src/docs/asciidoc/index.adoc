@@ -17,9 +17,9 @@ TIP: 不能找到你需要的信息？通过访问 http://discuss.asciidoctor.or
 
 * xref:what-is-asciidoctor.adoc[什么是 Asciidoctor]
 
-* xref:what-is-asciidoc-why-use-it.adoc[What is AsciiDoc? Why do we need it?]
+* xref:what-is-asciidoc.adoc[What is AsciiDoc? Why do we need it?]
 
-* link:asciidoc-asciidoctor-diffs/[How do Asciidoctor and AsciiDoc differ?]
+* xref:asciidoc-asciidoctor-diffs.adoc[HAsciidoctor 和 AsciiDoc 有什么不同]
 
 * link:/#authors[Who created Asciidoctor?]
 

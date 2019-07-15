@@ -23,7 +23,7 @@ asciidoctor {
     attributes \
         'build-gradle': file('build.gradle'),
         'sourcedir': source,
-        'endpoint-url': 'http://example.org',
+        'endpoint-url': 'https://docs.ossez.com',
         'source-highlighter': 'coderay',
         'imagesdir': 'images',
         'toc': 'left',

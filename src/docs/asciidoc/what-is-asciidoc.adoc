@@ -1,6 +1,5 @@
-= What is AsciiDoc? Why do we need it?
-Dan Allen <https://github.com/mojavelinux[@mojavelinux]>
-v2.0, 2014-08-09
+= 什么是 AsciiDoc？为什么我们需要它
+YuCheng Hu <yhu@ossez.com>
 :page-layout: docs
 ifndef::env-site[]
 :toc: left
@@ -19,17 +18,16 @@ TODO:
 - XML is "hostile to the diff/merge algorithms used by most version-control systems"
 ////
 
-“__Writing is hard__.”
+“__写作是困难的。__”
 
-That's what experience has conditioned us to believe.
+曾经的经验使我们对此深信不疑。
 
-But, we can't just avoid it, especially in the tech industry.
-We _must_ write.
-Even the most brilliant software is useless without good documentation.
-If the users fail, so does the project.
+但是，我们却不能逃避，尤其是在技术行业。
+我们 _必须_ 进行写作。
+如果没有好的文档，即使再华丽的软件都一无是处。 如果连用户都失败了，那么项目也好不到哪里去。
 
 [quote, Nick Coghlan]
-Unless your UI discoverability is *really good*, saying “the feature isn't documented” is the same as saying “the product can't do it.”
+除非你的 UI 被设计得  *真的非常好*，否则说 “这个特性不需要文档” 就等于说 “我们的产品做不到。”
 
 In other words,
 
