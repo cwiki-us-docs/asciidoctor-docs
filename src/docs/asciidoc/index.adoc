@@ -50,7 +50,7 @@ How do I convert my document into DocBook?
 How do I use a custom template?
 ////
 
-== Write with Asciidoctor
+== 使用 Asciidoctor 书写
 
 link:asciidoc-syntax-quick-reference/[AsciiDoc Syntax Quick Reference]::
   An overview of the AsciiDoc syntax you'll likely need to structure and format a document.
@@ -71,7 +71,7 @@ link:asciidoc-recommended-practices/[AsciiDoc Style Guide and Recommended Practi
 The AsciiDoc website also provides syntax documentation as well as http://asciidoc.org/userguide.html#_gotchas[Gotchas] and http://asciidoc.org/faq.html[FAQs]
 ////
 
-== AsciiDoc Templates
+== AsciiDoc 模板
 
 link:asciidoc-article/[AsciiDoc Article Template]::
   A template containing the most common content structures and markup used in an AsciiDoc article document.
